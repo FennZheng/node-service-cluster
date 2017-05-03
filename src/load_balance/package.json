@@ -1,0 +1,4 @@
+{
+	"name": "load_balance",
+	"main" : "./load_balance.js"
+}
